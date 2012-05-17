@@ -1,4 +1,4 @@
-# Service Bus Remoring Demo
+# Service Bus Remoting Demo
 
 This is a really simple to understand example of remoting a service using Service Bus. Bare bones, easy to follow code.
 
